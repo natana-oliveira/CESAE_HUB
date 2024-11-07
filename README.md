@@ -11,13 +11,14 @@
   <br>
   <img alt="Cesae Hub desktop" height="350" src="./images/DarkModeTablet.png">
 </div> 
+<div align="left">
+  <img alt="Cesae Hub desktop" height="150" src="./images/sucess.png">
+</div> 
 <div align="center">
   <br>
  <h1>Thank You!</h1>
 </div> 
-<div align="left">
-  <img alt="Cesae Hub desktop" height="50" src="./images/sucess.png">
-</div> 
+
 
 
  
