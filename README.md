@@ -16,8 +16,7 @@
  <h1>Thank You!</h1>
 </div> 
 <div align="left">
-  <br>
-  <img alt="Cesae Hub desktop" height="350" src="./images/sucess.png">
+  <img alt="Cesae Hub desktop" height="50" src="./images/sucess.png">
 </div> 
 
 
