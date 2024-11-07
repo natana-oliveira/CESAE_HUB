@@ -13,7 +13,7 @@
 </div> 
 <div>
 <div align="right">
-  <img alt="Cesae Hub desktop" height="150" src="./images/sucess.png">
+  <img alt="Cesae Hub desktop" height="100" src="./images/sucess.png">
 </div> 
 <div align="center">
   <br>
