@@ -12,7 +12,6 @@
   <img alt="Cesae Hub desktop" height="350" src="./images/DarkModeTablet.png">
 </div> 
 <div align="center">![sucess](https://github.com/user-attachments/assets/2a859152-bac4-43f4-b143-3aa158de8581)
-
   <br>
  <h1>Thank You!</h1>
 </div> 
