@@ -11,16 +11,18 @@
   <br>
   <img alt="Cesae Hub desktop" height="350" src="./images/DarkModeTablet.png">
 </div> 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h1>Thank You!</h1>
-    </td>
-    <td align="right">
-      <img alt="Cesae Hub desktop" height="150" src="./images/sucess.png">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <h1>Thank You!</h1>
+      </td>
+      <td align="right">
+        <img alt="Cesae Hub desktop" height="150" src="./images/sucess.png">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
