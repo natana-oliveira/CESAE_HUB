@@ -8,7 +8,12 @@
   <p>Check out the creation process of this project in my <a href="https://readymag.website/u1230609390/natana/cesaehub/" target="_blank">portfolio</a>.</p>
 </div>
 <div>
-  <img alt="Cesae Hub desktop" height="250" src="./images/ORH93N00.png">
+  <br>
   <img alt="Cesae Hub desktop" height="250" src="./images/DarkModeTablet.png">
 </div> 
+<div align="center">
+ <h1>Thank You!</h1>
+</div> 
+
+
  
