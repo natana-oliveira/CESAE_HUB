@@ -1,0 +1,80 @@
+body{
+
+  background-color: #F5F6FA;
+}
+.conteiner-login {
+  background-color: #ffffff;
+  border: solid 0.2rem #ffffff;
+  border-radius: 2rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  display: flex;
+  max-width: 90%;
+  max-height: 90%;
+  width: 1200px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);  /* alinha ao centro !!! NAO TIRAR */
+}
+
+.image-login {
+  flex-shrink: 0;
+  height: auto;
+  max-width: 60%; /* Ajuste conforme necessário */
+  padding-top: 70px;
+  padding-right: 50px;
+  border-bottom-left-radius: 2rem;
+}
+
+.conteiner-right-content {
+  align-items: center;
+  display: flex;
+  justify-content: center; /* Alinha os itens no centro horizontalmente */
+  flex-direction: column;
+  flex-shrink: 0;
+  height: calc(100% - 6.9rem);
+  margin: 2rem 0rem 4.9rem 0rem;
+  width: 40%; /* Ajuste conforme necessário */
+  padding: 40px;
+}
+
+.logo-cesae{
+  max-width: 70%; /* Garante que a imagem não ultrapasse o contêiner */
+  margin-bottom: 30px; /* Espaçamento entre a imagem e o formulário */
+  margin: auto;
+  margin-right: 18%;
+  
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-bottom: 10rem;
+  width: 100%;
+}
+
+span > a {
+margin-left: 30px;
+}
+
+.btn-primary-purple {
+  align-items: center;
+  color: #ffffff;
+  background-color: #362664;
+  border-radius: 0.6rem;
+  box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.0500000007);
+  font-size: 1rem;
+  padding: 8px 16px;
+  font-weight: 600;
+  justify-content: center;
+  border: none;
+  text-decoration: none;
+  text-align: center;
+}
+.btn-primary-purple:hover {
+  background-color: #ab87bc;
+  color: #ffffff;
+}
+
