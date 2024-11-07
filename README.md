@@ -1,7 +1,7 @@
 # Final Project - Plataforma CESAE Hub
 <br>
 <div align="center">
-  <img alt="Cesae Hub Cover" height="450" src="./images/Cover(1).png">
+  <img alt="Cesae Hub Cover" height="550" src="./images/Cover(1).png">
 </div> 
 <div>
   <br>
